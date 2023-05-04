@@ -1,0 +1,5 @@
+region         = "us-west-1"
+ami            = "ami-051ed863837a0b1b6"
+instance_type  = "t2.micro"
+keypair        = "vero"
+Name           = "dev-server"        
